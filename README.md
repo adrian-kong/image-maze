@@ -43,6 +43,8 @@ A Star -
 ```
 Calculates the move cost by adding parent move cost + 1 AND the heuristic cost which I used the manhattan to calculate
 |x1 - x2| + |y1 - y2|
+or euclidean c^2=a^2+b^2
+sqrt ((x1 - x2) ^ 2 + (y1 - y2)^2)
 ```
 
 and Greedy is more inbalance between the heuristics.
