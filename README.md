@@ -1,7 +1,5 @@
 # mazesolverforimage
-dumb pathfdinger for image i wrote in 30 minutes 
-
-very poorly coded
+Image pathfinder
 i think that is dijkstra and a star i implemented not sure.
 
 Basically Dijkstra loops through all of the squares by order as compared to Greedy and A Star.
